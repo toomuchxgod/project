@@ -1,0 +1,12 @@
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\bin\Debug\AutoServiceManager.exe.config
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\bin\Debug\AutoServiceManager.exe
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\bin\Debug\AutoServiceManager.pdb
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.csproj.AssemblyReference.cache
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.Properties.Resources.resources
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.csproj.GenerateResource.cache
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.csproj.CoreCompileInputs.cache
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.exe
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.pdb
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.ClientsForm.resources
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.LoginForm.resources
+C:\Users\misch\source\repos\AutoServiceManager\AutoServiceManager\obj\Debug\AutoServiceManager.MainForm.resources

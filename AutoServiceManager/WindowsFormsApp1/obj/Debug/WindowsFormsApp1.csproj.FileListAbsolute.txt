@@ -1,0 +1,4 @@
+C:\Users\misch\Desktop\AutoServiceManager\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\misch\Desktop\AutoServiceManager\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\misch\Desktop\AutoServiceManager\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\misch\Desktop\AutoServiceManager\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
