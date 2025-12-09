@@ -40,7 +40,7 @@ namespace AutoServiceManager
                 }
             }
 
-            pictureBox1.Image = logo;
+            pictureBox1.Image = logo; // sdg
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
